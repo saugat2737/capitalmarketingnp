@@ -13,7 +13,7 @@ const categories = [
   { slug: "diaries", name: "Diaries", intro: "Corporate diaries and premium Notebooks crafted for institutions, banks, offices, and annual brand campaigns." },
   { slug: "notebooks", name: "Notebooks", intro: "Premium Notebooks with custom covers, inserts, packaging, and logo application." },
   { slug: "corporate-gift-sets", name: "Corporate Gift Sets", intro: "Curated gift combinations for clients, staff, partners, and formal events." },
-  { slug: "mugs-cups", name: "Mugs & Cups", intro: "Ceramic mugs, travel cups, and drinkware designed for daily brand visibility." },
+  { slug: "mugs-cups", name: "Medals", intro: "Recognition medals for outstanding performance and achievements." },
   { slug: "water-bottles", name: "Acrylic Trophies", intro: "Elegant acrylic trophies for recognizing outstanding achievements and milestones." },
   { slug: "bags", name: "Desktop and Table Top", intro: "Elegant desktop and table top solutions for corporate environments." },
   { slug: "trophies-awards", name: "Trophies & Awards", intro: "Recognition pieces for academic, corporate, institutional, and event ceremonies." },
