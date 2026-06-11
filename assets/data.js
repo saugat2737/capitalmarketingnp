@@ -11,7 +11,7 @@ const siteConfig = {
 const categories = [
   { slug: "pens", name: "Pens", intro: "Executive pens, promotional pens, metal pens, roller pens, and elegant writing instruments for high-volume branding." },
   { slug: "diaries", name: "Diaries", intro: "Corporate diaries and premium Notebooks crafted for institutions, banks, offices, and annual brand campaigns." },
-  { slug: "notebooks", name: "Wallets and Cardholders", intro: "Stylish wallets and cardholders for professionals and corporate clients." },
+  { slug: "notebooks", name: "Notebooks,Wallets and Cardholders", intro: "Stylish notebooks, wallets, and cardholders for professionals and corporate clients." },
   { slug: "corporate-gift-sets", name: "Corporate Gift Sets", intro: "Curated gift combinations for clients, staff, partners, and formal events." },
   { slug: "mugs-cups", name: "Medals", intro: "Recognition medals for outstanding performance and achievements." },
   { slug: "water-bottles", name: "Acrylic Trophies", intro: "Elegant acrylic trophies for recognizing outstanding achievements and milestones." },
